@@ -1,0 +1,51 @@
+[
+  {
+    "target": "CompanyRegistration.md",
+    "operation_id": "readCompanyRegistration",
+    "use_existing_file": false,
+    "source": "公司注册.md",
+    "copied": true
+  },
+  {
+    "target": "BusinessChange.md",
+    "operation_id": "readBusinessChange",
+    "use_existing_file": false,
+    "source": "工商变更.md",
+    "copied": true
+  },
+  {
+    "target": "TaxAccountingAudit.md",
+    "operation_id": "readTaxAccountingAudit",
+    "use_existing_file": false,
+    "source": "财税业务.md",
+    "copied": true
+  },
+  {
+    "target": "CompanyDeregistration.md",
+    "operation_id": "readCompanyDeregistration",
+    "use_existing_file": false,
+    "source": "深圳公司注销.md",
+    "copied": true
+  },
+  {
+    "target": "BankingServices.md",
+    "operation_id": "readBankingServices",
+    "use_existing_file": false,
+    "source": "银行业务.md",
+    "copied": true
+  },
+  {
+    "target": "HongKongServices.md",
+    "operation_id": "readHongKongServices",
+    "use_existing_file": false,
+    "source": "香港业务.md",
+    "copied": true
+  },
+  {
+    "target": "OneOffServices.md",
+    "operation_id": "readOneOffServices",
+    "use_existing_file": false,
+    "source": "其他一次性业务.md",
+    "copied": true
+  }
+]
